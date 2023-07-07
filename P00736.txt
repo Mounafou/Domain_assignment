@@ -1,0 +1,732 @@
+ID   C1R_HUMAN               Reviewed;         705 AA.
+AC   P00736; A6NJQ8; Q68D77; Q8J012;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   16-DEC-2008, sequence version 2.
+DT   22-FEB-2023, entry version 246.
+DE   RecName: Full=Complement C1r subcomponent;
+DE            EC=3.4.21.41;
+DE   AltName: Full=Complement component 1 subcomponent r;
+DE   Contains:
+DE     RecName: Full=Complement C1r subcomponent heavy chain;
+DE   Contains:
+DE     RecName: Full=Complement C1r subcomponent light chain;
+DE   Flags: Precursor;
+GN   Name=C1R;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT ARG-186.
+RX   PubMed=3021205; DOI=10.1021/bi00365a020;
+RA   Leytus S.P., Kurachi K., Sakariassen K.S., Davie E.W.;
+RT   "Nucleotide sequence of the cDNA coding for human complement C1r.";
+RL   Biochemistry 25:4855-4863(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANTS LEU-152 AND ARG-186.
+RX   PubMed=3030286; DOI=10.1042/bj2400783;
+RA   Journet A., Tosi M.;
+RT   "Cloning and sequencing of full-length cDNA encoding the precursor of human
+RT   complement component C1r.";
+RL   Biochem. J. 240:783-787(1986).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS HIS-131; LEU-152; TYR-163;
+RP   LYS-184; ARG-186 AND ARG-261.
+RX   PubMed=12914573; DOI=10.1046/j.1469-1809.2003.00019.x;
+RA   Nakagawa M., Yuasa I., Irizawa Y., Umetsu K.;
+RT   "The human complement component C1R gene: the exon-intron structure and the
+RT   molecular basis of allelic diversity.";
+RL   Ann. Hum. Genet. 67:207-215(2003).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Colon endothelium;
+RX   PubMed=17974005; DOI=10.1186/1471-2164-8-399;
+RA   Bechtel S., Rosenfelder H., Duda A., Schmidt C.P., Ernst U.,
+RA   Wellenreuther R., Mehrle A., Schuster C., Bahr A., Bloecker H., Heubner D.,
+RA   Hoerlein A., Michel G., Wedler H., Koehrer K., Ottenwaelder B., Poustka A.,
+RA   Wiemann S., Schupp I.;
+RT   "The full-ORF clone resource of the German cDNA consortium.";
+RL   BMC Genomics 8:399-399(2007).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16541075; DOI=10.1038/nature04569;
+RA   Scherer S.E., Muzny D.M., Buhay C.J., Chen R., Cree A., Ding Y.,
+RA   Dugan-Rocha S., Gill R., Gunaratne P., Harris R.A., Hawes A.C.,
+RA   Hernandez J., Hodgson A.V., Hume J., Jackson A., Khan Z.M., Kovar-Smith C.,
+RA   Lewis L.R., Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R.,
+RA   Montgomery K.T., Morgan M.B., Nazareth L.V., Scott G., Sodergren E.,
+RA   Song X.-Z., Steffen D., Lovering R.C., Wheeler D.A., Worley K.C., Yuan Y.,
+RA   Zhang Z., Adams C.Q., Ansari-Lari M.A., Ayele M., Brown M.J., Chen G.,
+RA   Chen Z., Clerc-Blankenburg K.P., Davis C., Delgado O., Dinh H.H.,
+RA   Draper H., Gonzalez-Garay M.L., Havlak P., Jackson L.R., Jacob L.S.,
+RA   Kelly S.H., Li L., Li Z., Liu J., Liu W., Lu J., Maheshwari M.,
+RA   Nguyen B.-V., Okwuonu G.O., Pasternak S., Perez L.M., Plopper F.J.H.,
+RA   Santibanez J., Shen H., Tabor P.E., Verduzco D., Waldron L., Wang Q.,
+RA   Williams G.A., Zhang J., Zhou J., Allen C.C., Amin A.G., Anyalebechi V.,
+RA   Bailey M., Barbaria J.A., Bimage K.E., Bryant N.P., Burch P.E.,
+RA   Burkett C.E., Burrell K.L., Calderon E., Cardenas V., Carter K., Casias K.,
+RA   Cavazos I., Cavazos S.R., Ceasar H., Chacko J., Chan S.N., Chavez D.,
+RA   Christopoulos C., Chu J., Cockrell R., Cox C.D., Dang M., Dathorne S.R.,
+RA   David R., Davis C.M., Davy-Carroll L., Deshazo D.R., Donlin J.E.,
+RA   D'Souza L., Eaves K.A., Egan A., Emery-Cohen A.J., Escotto M., Flagg N.,
+RA   Forbes L.D., Gabisi A.M., Garza M., Hamilton C., Henderson N.,
+RA   Hernandez O., Hines S., Hogues M.E., Huang M., Idlebird D.G., Johnson R.,
+RA   Jolivet A., Jones S., Kagan R., King L.M., Leal B., Lebow H., Lee S.,
+RA   LeVan J.M., Lewis L.C., London P., Lorensuhewa L.M., Loulseged H.,
+RA   Lovett D.A., Lucier A., Lucier R.L., Ma J., Madu R.C., Mapua P.,
+RA   Martindale A.D., Martinez E., Massey E., Mawhiney S., Meador M.G.,
+RA   Mendez S., Mercado C., Mercado I.C., Merritt C.E., Miner Z.L., Minja E.,
+RA   Mitchell T., Mohabbat F., Mohabbat K., Montgomery B., Moore N., Morris S.,
+RA   Munidasa M., Ngo R.N., Nguyen N.B., Nickerson E., Nwaokelemeh O.O.,
+RA   Nwokenkwo S., Obregon M., Oguh M., Oragunye N., Oviedo R.J., Parish B.J.,
+RA   Parker D.N., Parrish J., Parks K.L., Paul H.A., Payton B.A., Perez A.,
+RA   Perrin W., Pickens A., Primus E.L., Pu L.-L., Puazo M., Quiles M.M.,
+RA   Quiroz J.B., Rabata D., Reeves K., Ruiz S.J., Shao H., Sisson I.,
+RA   Sonaike T., Sorelle R.P., Sutton A.E., Svatek A.F., Svetz L.A.,
+RA   Tamerisa K.S., Taylor T.R., Teague B., Thomas N., Thorn R.D., Trejos Z.Y.,
+RA   Trevino B.K., Ukegbu O.N., Urban J.B., Vasquez L.I., Vera V.A.,
+RA   Villasana D.M., Wang L., Ward-Moore S., Warren J.T., Wei X., White F.,
+RA   Williamson A.L., Wleczyk R., Wooden H.S., Wooden S.H., Yen J., Yoon L.,
+RA   Yoon V., Zorrilla S.E., Nelson D., Kucherlapati R., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The finished DNA sequence of human chromosome 12.";
+RL   Nature 440:346-351(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANTS LEU-152 AND ARG-186.
+RC   TISSUE=Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 18-463.
+RX   PubMed=3036070; DOI=10.1042/bj2410711;
+RA   Arlaud G.J., Willis A.C., Gagnon J.;
+RT   "Complete amino acid sequence of the A chain of human complement-classical-
+RT   pathway enzyme C1r.";
+RL   Biochem. J. 241:711-720(1987).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 464-705.
+RX   PubMed=6303394; DOI=10.1021/bi00277a003;
+RA   Arlaud G.J., Gagnon J.;
+RT   "Complete amino acid sequence of the catalytic chain of human complement
+RT   subcomponent C1-r.";
+RL   Biochemistry 22:1758-1764(1983).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 152-186, AND HYDROXYLATION AT ASN-167.
+RX   PubMed=2820791; DOI=10.1016/0014-5793(87)80205-3;
+RA   Arlaud G.J., van Dorsselaer A., Bell A., Mancini M., Aude C., Gagnon J.;
+RT   "Identification of erythro-beta-hydroxyasparagine in the EGF-like domain of
+RT   human C1r.";
+RL   FEBS Lett. 222:129-134(1987).
+RN   [10]
+RP   PROTEIN SEQUENCE OF 133-137; 187-211 AND 609-613, AND PHOSPHORYLATION AT
+RP   SER-206 BY CK2.
+RX   PubMed=8635594; DOI=10.1016/0014-5793(96)00403-6;
+RA   Pelloux S., Thielens N.M., Hudry-Clergeon G., Petillot Y., Filhol O.,
+RA   Arlaud G.J.;
+RT   "Identification of a cryptic protein kinase CK2 phosphorylation site in
+RT   human complement protease Clr, and its use to probe intramolecular
+RT   interaction.";
+RL   FEBS Lett. 386:15-20(1996).
+RN   [11]
+RP   POSSIBLE INVOLVEMENT IN C1R DEFICIENCY.
+RX   PubMed=2831944; DOI=10.1021/bi00400a004;
+RA   Tosi M., Duponchel C., Meo T., Julier C.;
+RT   "Complete cDNA sequence of human complement Cls and close physical linkage
+RT   of the homologous genes Cls and Clr.";
+RL   Biochemistry 26:8516-8524(1987).
+RN   [12]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-125; ASN-221 AND ASN-514.
+RC   TISSUE=Plasma;
+RX   PubMed=16335952; DOI=10.1021/pr0502065;
+RA   Liu T., Qian W.-J., Gritsenko M.A., Camp D.G. II, Monroe M.E., Moore R.J.,
+RA   Smith R.D.;
+RT   "Human plasma N-glycoproteome analysis by immunoaffinity subtraction,
+RT   hydrazide chemistry, and mass spectrometry.";
+RL   J. Proteome Res. 4:2070-2080(2005).
+RN   [13]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-514.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [14]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [15]
+RP   SUBCELLULAR LOCATION, INVOLVEMENT IN EDSPD1, VARIANTS EDSPD1 ASP-50;
+RP   GLY-290; ASP-297; PRO-300; PRO-301; CYS-302; 306-ILE--CYS-309 DELINS
+RP   ARG-ARG; TRP-309; ARG-338; PHE-358; CYS-364; TRP-371; 401-ARG--TYR-405
+RP   DELINS HIS-VAL-ILE AND ARG-435, AND CHARACTERIZATION OF VARIANTS EDSPD1
+RP   ASP-50; TRP-309 AND TRP-371.
+RX   PubMed=27745832; DOI=10.1016/j.ajhg.2016.08.019;
+RG   Molecular Basis of Periodontal EDS Consortium;
+RA   Kapferer-Seebacher I., Pepin M., Werner R., Aitman T.J., Nordgren A.,
+RA   Stoiber H., Thielens N., Gaboriaud C., Amberger A., Schossig A., Gruber R.,
+RA   Giunta C., Bamshad M., Bjoerck E., Chen C., Chitayat D., Dorschner M.,
+RA   Schmitt-Egenolf M., Hale C.J., Hanna D., Hennies H.C.,
+RA   Heiss-Kisielewsky I., Lindstrand A., Lundberg P., Mitchell A.L.,
+RA   Nickerson D.A., Reinstein E., Rohrbach M., Romani N., Schmuth M.,
+RA   Silver R., Taylan F., Vandersteen A., Vandrovcova J., Weerakkody R.,
+RA   Yang M., Pope F.M., Byers P.H., Zschocke J.;
+RT   "Periodontal Ehlers-Danlos syndrome is caused by mutations in C1R and C1S,
+RT   which encode subcomponents C1r and C1s of complement.";
+RL   Am. J. Hum. Genet. 99:1005-1014(2016).
+RN   [16]
+RP   STRUCTURE BY NMR OF 140-192.
+RX   PubMed=9477945; DOI=10.1021/bi971851v;
+RA   Bersch B., Hernandez J.-F., Marion D., Arlaud G.J.;
+RT   "Solution structure of the epidermal growth factor (EGF)-like module of
+RT   human complement protease C1r, an atypical member of the EGF family.";
+RL   Biochemistry 37:1204-1214(1998).
+RN   [17]
+RP   X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 307-702.
+RX   PubMed=11823416; DOI=10.1093/emboj/21.3.231;
+RA   Budayova-Spano M., Lacroix M., Thielens N.M., Arlaud G.J.,
+RA   Fontecilla-Camps J.-C., Gaboriaud C.;
+RT   "The crystal structure of the zymogen catalytic domain of complement
+RT   protease C1r reveals that a disruptive mechanical stress is required to
+RT   trigger activation of the C1 complex.";
+RL   EMBO J. 21:231-239(2002).
+RN   [18]
+RP   X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 375-702.
+RX   PubMed=12429092; DOI=10.1016/s0969-2126(02)00881-x;
+RA   Budayova-Spano M., Grabarse W., Thielens N.M., Hillen H., Lacroix M.,
+RA   Schmidt M., Fontecilla-Camps J.-C., Arlaud G.J., Gaboriaud C.;
+RT   "Monomeric structures of the zymogen and active catalytic domain of
+RT   complement protease c1r: further insights into the c1 activation
+RT   mechanism.";
+RL   Structure 10:1509-1519(2002).
+RN   [19]
+RP   VARIANT LEU-152.
+RX   PubMed=8162045; DOI=10.1093/hmg/3.1.217-a;
+RA   Nothen M.M., Dewald G.;
+RT   "A common amino acid polymorphism in complement component C1R.";
+RL   Hum. Mol. Genet. 3:217-217(1994).
+RN   [20]
+RP   VARIANTS LYS-184 AND ARG-261, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=22028381; DOI=10.1093/jmcb/mjr024;
+RA   Su Z.D., Sun L., Yu D.X., Li R.X., Li H.X., Yu Z.J., Sheng Q.H., Lin X.,
+RA   Zeng R., Wu J.R.;
+RT   "Quantitative detection of single amino acid polymorphisms by targeted
+RT   proteomics.";
+RL   J. Mol. Cell Biol. 3:309-315(2011).
+CC   -!- FUNCTION: C1r B chain is a serine protease that combines with C1q and
+CC       C1s to form C1, the first component of the classical pathway of the
+CC       complement system.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Selective cleavage of Lys(or Arg)-|-Ile bond in complement
+CC         subcomponent C1s to form the active form of C1s (EC 3.4.21.42).;
+CC         EC=3.4.21.41;
+CC   -!- SUBUNIT: C1 is a calcium-dependent trimolecular complex of C1q, C1r and
+CC       C1s in the molar ration of 1:2:2. C1r is a dimer of identical chains,
+CC       each of which is activated by cleavage into two chains, A and B,
+CC       connected by disulfide bonds.
+CC   -!- INTERACTION:
+CC       P00736; P00736: C1R; NbExp=2; IntAct=EBI-3926504, EBI-3926504;
+CC       P00736; P09871: C1S; NbExp=6; IntAct=EBI-3926504, EBI-2810045;
+CC       P00736; P05155: SERPING1; NbExp=2; IntAct=EBI-3926504, EBI-1223454;
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:27745832}.
+CC   -!- PTM: The iron and 2-oxoglutarate dependent 3-hydroxylation of aspartate
+CC       and asparagine is (R) stereospecific within EGF domains.
+CC       {ECO:0000269|PubMed:2820791}.
+CC   -!- POLYMORPHISM: Complement component C1r deficiency [MIM:216950] leads to
+CC       the failure of the classical complement system activation pathway (C1
+CC       deficiency). Individuals with C1 deficiency are highly susceptible to
+CC       infections by microorganisms and have greater risk in developing
+CC       autoimmune diseases such as systemic lupus erythematosus (SLE).
+CC       {ECO:0000269|PubMed:2831944}.
+CC   -!- DISEASE: Ehlers-Danlos syndrome, periodontal type, 1 (EDSPD1)
+CC       [MIM:130080]: A form of Ehlers-Danlos syndrome, a connective tissue
+CC       disorder characterized by hyperextensible skin, atrophic cutaneous
+CC       scars due to tissue fragility and joint hyperlaxity. EDSPD1 is
+CC       characterized by the association of typical features of Ehlers-Danlos
+CC       syndrome with gingival recession and severe early-onset periodontal
+CC       disease, leading to premature loss of permanent teeth. EDSPD1
+CC       inheritance is autosomal dominant. {ECO:0000269|PubMed:27745832}.
+CC       Note=The disease is caused by variants affecting the gene represented
+CC       in this entry.
+CC   -!- SIMILARITY: Belongs to the peptidase S1 family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00274}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M14058; AAA51851.1; -; mRNA.
+DR   EMBL; X04701; CAA28407.1; -; mRNA.
+DR   EMBL; AB083037; BAC19850.2; -; Genomic_DNA.
+DR   EMBL; AC094008; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AC140077; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR749540; CAH18343.1; -; mRNA.
+DR   EMBL; BC035220; AAH35220.1; -; mRNA.
+DR   CCDS; CCDS81658.1; -.
+DR   PIR; A24170; C1HURB.
+DR   RefSeq; NP_001724.3; NM_001733.4.
+DR   PDB; 1APQ; NMR; -; A=140-192.
+DR   PDB; 1GPZ; X-ray; 2.90 A; A/B=307-705.
+DR   PDB; 1MD7; X-ray; 3.20 A; A=375-702.
+DR   PDB; 1MD8; X-ray; 2.80 A; A=375-703.
+DR   PDB; 2QY0; X-ray; 2.60 A; A/C=309-463, B/D=464-705.
+DR   PDB; 6F1C; X-ray; 4.20 A; A/C=18-308.
+DR   PDB; 6F1D; X-ray; 1.95 A; A=191-307.
+DR   PDB; 6F1H; X-ray; 4.50 A; A/C=18-308.
+DR   PDB; 6F39; X-ray; 5.80 A; A/B=22-306.
+DR   PDBsum; 1APQ; -.
+DR   PDBsum; 1GPZ; -.
+DR   PDBsum; 1MD7; -.
+DR   PDBsum; 1MD8; -.
+DR   PDBsum; 2QY0; -.
+DR   PDBsum; 6F1C; -.
+DR   PDBsum; 6F1D; -.
+DR   PDBsum; 6F1H; -.
+DR   PDBsum; 6F39; -.
+DR   AlphaFoldDB; P00736; -.
+DR   SASBDB; P00736; -.
+DR   SMR; P00736; -.
+DR   BioGRID; 107176; 14.
+DR   ComplexPortal; CPX-1920; Complement C1 complex.
+DR   IntAct; P00736; 11.
+DR   MINT; P00736; -.
+DR   STRING; 9606.ENSP00000438615; -.
+DR   BindingDB; P00736; -.
+DR   ChEMBL; CHEMBL4611; -.
+DR   DrugBank; DB09228; Conestat alfa.
+DR   DrugBank; DB00111; Daclizumab.
+DR   DrugBank; DB12831; Gabexate.
+DR   DrugBank; DB06404; Human C1-esterase inhibitor.
+DR   DrugBank; DB00110; Palivizumab.
+DR   DrugBank; DB01593; Zinc.
+DR   DrugBank; DB14487; Zinc acetate.
+DR   DrugBank; DB14533; Zinc chloride.
+DR   DrugBank; DB14548; Zinc sulfate, unspecified form.
+DR   DrugCentral; P00736; -.
+DR   GuidetoPHARMACOLOGY; 2334; -.
+DR   MEROPS; S01.192; -.
+DR   GlyConnect; 713; 17 N-Linked glycans (3 sites).
+DR   GlyCosmos; P00736; 4 sites, 17 glycans.
+DR   GlyGen; P00736; 4 sites, 2 Asn glycans (2 sites), 17 N-linked glycans (3 sites).
+DR   iPTMnet; P00736; -.
+DR   PhosphoSitePlus; P00736; -.
+DR   BioMuta; C1R; -.
+DR   DMDM; 218511956; -.
+DR   EPD; P00736; -.
+DR   jPOST; P00736; -.
+DR   MassIVE; P00736; -.
+DR   PeptideAtlas; P00736; -.
+DR   ProteomicsDB; 51270; -.
+DR   DNASU; 715; -.
+DR   GeneID; 715; -.
+DR   KEGG; hsa:715; -.
+DR   UCSC; uc031ysf.2; human.
+DR   AGR; HGNC:1246; -.
+DR   CTD; 715; -.
+DR   DisGeNET; 715; -.
+DR   GeneCards; C1R; -.
+DR   GeneReviews; C1R; -.
+DR   HGNC; HGNC:1246; C1R.
+DR   MalaCards; C1R; -.
+DR   MIM; 130080; phenotype.
+DR   MIM; 216950; phenotype.
+DR   MIM; 613785; gene.
+DR   neXtProt; NX_P00736; -.
+DR   Orphanet; 300345; Autosomal systemic lupus erythematosus.
+DR   Orphanet; 169147; Immunodeficiency due to a classical component pathway complement deficiency.
+DR   Orphanet; 75392; Periodontal Ehlers-Danlos syndrome.
+DR   PharmGKB; PA25635; -.
+DR   eggNOG; KOG3627; Eukaryota.
+DR   InParanoid; P00736; -.
+DR   OrthoDB; 5394076at2759; -.
+DR   PhylomeDB; P00736; -.
+DR   TreeFam; TF330373; -.
+DR   BRENDA; 3.4.21.41; 2681.
+DR   PathwayCommons; P00736; -.
+DR   Reactome; R-HSA-166663; Initial triggering of complement.
+DR   Reactome; R-HSA-173623; Classical antibody-mediated complement activation.
+DR   Reactome; R-HSA-977606; Regulation of Complement cascade.
+DR   SABIO-RK; P00736; -.
+DR   SignaLink; P00736; -.
+DR   SIGNOR; P00736; -.
+DR   BioGRID-ORCS; 715; 5 hits in 240 CRISPR screens.
+DR   ChiTaRS; C1R; human.
+DR   EvolutionaryTrace; P00736; -.
+DR   GeneWiki; C1R_(gene); -.
+DR   GenomeRNAi; 715; -.
+DR   Pharos; P00736; Tclin.
+DR   PRO; PR:P00736; -.
+DR   Proteomes; UP000005640; Unplaced.
+DR   RNAct; P00736; protein.
+DR   Genevisible; P00736; HS.
+DR   GO; GO:0072562; C:blood microparticle; HDA:UniProtKB.
+DR   GO; GO:0005602; C:complement component C1 complex; NAS:ComplexPortal.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:CAFA.
+DR   GO; GO:0005509; F:calcium ion binding; IDA:CAFA.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0140313; F:molecular sequestering activity; EXP:DisProt.
+DR   GO; GO:0004252; F:serine-type endopeptidase activity; EXP:Reactome.
+DR   GO; GO:0008236; F:serine-type peptidase activity; TAS:ProtInc.
+DR   GO; GO:0006958; P:complement activation, classical pathway; TAS:Reactome.
+DR   GO; GO:0006955; P:immune response; TAS:ProtInc.
+DR   GO; GO:0045087; P:innate immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0031638; P:zymogen activation; IDA:CAFA.
+DR   CDD; cd00033; CCP; 2.
+DR   CDD; cd00041; CUB; 2.
+DR   CDD; cd00054; EGF_CA; 1.
+DR   CDD; cd00190; Tryp_SPc; 1.
+DR   DisProt; DP00621; -.
+DR   Gene3D; 2.10.70.10; Complement Module, domain 1; 2.
+DR   Gene3D; 2.10.25.10; Laminin; 1.
+DR   Gene3D; 2.60.120.290; Spermadhesin, CUB domain; 2.
+DR   Gene3D; 2.40.10.10; Trypsin-like serine proteases; 3.
+DR   InterPro; IPR000859; CUB_dom.
+DR   InterPro; IPR001881; EGF-like_Ca-bd_dom.
+DR   InterPro; IPR000742; EGF-like_dom.
+DR   InterPro; IPR018097; EGF_Ca-bd_CS.
+DR   InterPro; IPR024175; Pept_S1A_C1r/C1S/mannan-bd.
+DR   InterPro; IPR009003; Peptidase_S1_PA.
+DR   InterPro; IPR043504; Peptidase_S1_PA_chymotrypsin.
+DR   InterPro; IPR001314; Peptidase_S1A.
+DR   InterPro; IPR035914; Sperma_CUB_dom_sf.
+DR   InterPro; IPR035976; Sushi/SCR/CCP_sf.
+DR   InterPro; IPR000436; Sushi_SCR_CCP_dom.
+DR   InterPro; IPR001254; Trypsin_dom.
+DR   InterPro; IPR033116; TRYPSIN_SER.
+DR   PANTHER; PTHR24255:SF25; COMPLEMENT C1R SUBCOMPONENT; 1.
+DR   PANTHER; PTHR24255; COMPLEMENT COMPONENT 1, S SUBCOMPONENT-RELATED; 1.
+DR   Pfam; PF00431; CUB; 2.
+DR   Pfam; PF14670; FXa_inhibition; 1.
+DR   Pfam; PF00084; Sushi; 2.
+DR   Pfam; PF00089; Trypsin; 1.
+DR   PIRSF; PIRSF001155; C1r_C1s_MASP; 1.
+DR   PRINTS; PR00722; CHYMOTRYPSIN.
+DR   SMART; SM00032; CCP; 2.
+DR   SMART; SM00042; CUB; 2.
+DR   SMART; SM00181; EGF; 1.
+DR   SMART; SM00179; EGF_CA; 1.
+DR   SMART; SM00020; Tryp_SPc; 1.
+DR   SUPFAM; SSF57535; Complement control module/SCR domain; 2.
+DR   SUPFAM; SSF57196; EGF/Laminin; 1.
+DR   SUPFAM; SSF49854; Spermadhesin, CUB domain; 2.
+DR   SUPFAM; SSF50494; Trypsin-like serine proteases; 1.
+DR   PROSITE; PS00010; ASX_HYDROXYL; 1.
+DR   PROSITE; PS01180; CUB; 2.
+DR   PROSITE; PS01186; EGF_2; 1.
+DR   PROSITE; PS01187; EGF_CA; 1.
+DR   PROSITE; PS50923; SUSHI; 2.
+DR   PROSITE; PS50240; TRYPSIN_DOM; 1.
+DR   PROSITE; PS00135; TRYPSIN_SER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complement pathway; Direct protein sequencing;
+KW   Disease variant; Disulfide bond; EGF-like domain; Ehlers-Danlos syndrome;
+KW   Glycoprotein; Hydrolase; Hydroxylation; Immunity; Innate immunity;
+KW   Phosphoprotein; Protease; Reference proteome; Repeat; Secreted;
+KW   Serine protease; Signal; Sushi.
+FT   SIGNAL          1..17
+FT                   /evidence="ECO:0000269|PubMed:3036070"
+FT   CHAIN           18..705
+FT                   /note="Complement C1r subcomponent"
+FT                   /id="PRO_0000027577"
+FT   CHAIN           18..463
+FT                   /note="Complement C1r subcomponent heavy chain"
+FT                   /id="PRO_0000027578"
+FT   CHAIN           464..705
+FT                   /note="Complement C1r subcomponent light chain"
+FT                   /id="PRO_0000027579"
+FT   DOMAIN          18..141
+FT                   /note="CUB 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00059"
+FT   DOMAIN          142..190
+FT                   /note="EGF-like; calcium-binding"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          193..305
+FT                   /note="CUB 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00059"
+FT   DOMAIN          307..373
+FT                   /note="Sushi 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00302"
+FT   DOMAIN          374..449
+FT                   /note="Sushi 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00302"
+FT   DOMAIN          464..702
+FT                   /note="Peptidase S1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00274"
+FT   ACT_SITE        502
+FT                   /note="Charge relay system"
+FT   ACT_SITE        557
+FT                   /note="Charge relay system"
+FT   ACT_SITE        654
+FT                   /note="Charge relay system"
+FT   MOD_RES         167
+FT                   /note="(3R)-3-hydroxyasparagine"
+FT                   /evidence="ECO:0000269|PubMed:2820791"
+FT   MOD_RES         206
+FT                   /note="Phosphoserine; by CK2"
+FT                   /evidence="ECO:0000269|PubMed:8635594"
+FT   CARBOHYD        125
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16335952"
+FT   CARBOHYD        221
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16335952"
+FT   CARBOHYD        514
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:16335952,
+FT                   ECO:0000269|PubMed:19159218"
+FT   CARBOHYD        581
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT   DISULFID        71..89
+FT                   /evidence="ECO:0000305"
+FT   DISULFID        146..165
+FT   DISULFID        161..174
+FT   DISULFID        176..189
+FT   DISULFID        193..220
+FT                   /evidence="ECO:0000305"
+FT   DISULFID        250..268
+FT                   /evidence="ECO:0000305"
+FT   DISULFID        309..358
+FT   DISULFID        338..371
+FT   DISULFID        376..429
+FT   DISULFID        406..447
+FT   DISULFID        451..577
+FT                   /note="Interchain (between heavy and light chains)"
+FT   DISULFID        620..639
+FT   DISULFID        650..680
+FT   VARIANT         50
+FT                   /note="V -> D (in EDSPD1; requires 2 nucleotide
+FT                   substitutions; the mutant is not secreted but retained
+FT                   intracellularly)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077106"
+FT   VARIANT         131
+FT                   /note="Y -> H (in dbSNP:rs1278295523)"
+FT                   /evidence="ECO:0000269|PubMed:12914573"
+FT                   /id="VAR_018667"
+FT   VARIANT         152
+FT                   /note="S -> L (in dbSNP:rs1801046)"
+FT                   /evidence="ECO:0000269|PubMed:12914573,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:3030286,
+FT                   ECO:0000269|PubMed:8162045"
+FT                   /id="VAR_016103"
+FT   VARIANT         163
+FT                   /note="H -> Y (in dbSNP:rs144141261)"
+FT                   /evidence="ECO:0000269|PubMed:12914573"
+FT                   /id="VAR_018668"
+FT   VARIANT         184
+FT                   /note="E -> K (confirmed at protein level;
+FT                   dbSNP:rs1126605)"
+FT                   /evidence="ECO:0000269|PubMed:12914573,
+FT                   ECO:0000269|PubMed:22028381"
+FT                   /id="VAR_018669"
+FT   VARIANT         186
+FT                   /note="T -> R (in dbSNP:rs4519167)"
+FT                   /evidence="ECO:0000269|PubMed:12914573,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:3021205,
+FT                   ECO:0000269|PubMed:3030286"
+FT                   /id="VAR_047933"
+FT   VARIANT         261
+FT                   /note="G -> R (confirmed at protein level;
+FT                   dbSNP:rs3813728)"
+FT                   /evidence="ECO:0000269|PubMed:12914573,
+FT                   ECO:0000269|PubMed:22028381"
+FT                   /id="VAR_018670"
+FT   VARIANT         290
+FT                   /note="D -> G (in EDSPD1; unknown pathological
+FT                   significance; dbSNP:rs1057518643)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077107"
+FT   VARIANT         297
+FT                   /note="G -> D (in EDSPD1; unknown pathological
+FT                   significance; dbSNP:rs1057519026)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077108"
+FT   VARIANT         300
+FT                   /note="L -> P (in EDSPD1; unknown pathological
+FT                   significance; dbSNP:rs1057515579)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077109"
+FT   VARIANT         301
+FT                   /note="R -> P (in EDSPD1; unknown pathological
+FT                   significance; dbSNP:rs760277934)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077110"
+FT   VARIANT         302
+FT                   /note="Y -> C (in EDSPD1; dbSNP:rs1057519576)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077111"
+FT   VARIANT         306..309
+FT                   /note="IIKC -> RR (in EDSPD1)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077112"
+FT   VARIANT         309
+FT                   /note="C -> W (in EDSPD1; the mutant is not secreted but
+FT                   retained intracellularly; dbSNP:rs769707492)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077113"
+FT   VARIANT         338
+FT                   /note="C -> R (in EDSPD1; dbSNP:rs1057519577)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077114"
+FT   VARIANT         358
+FT                   /note="C -> F (in EDSPD1; dbSNP:rs1057518645)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077115"
+FT   VARIANT         364
+FT                   /note="W -> C (in EDSPD1; unknown pathological
+FT                   significance; dbSNP:rs1057519578)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077116"
+FT   VARIANT         371
+FT                   /note="C -> W (in EDSPD1; the mutant is not secreted but
+FT                   retained intracellularly; dbSNP:rs1057519579)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077117"
+FT   VARIANT         401..405
+FT                   /note="RIQYY -> HVI (in EDSPD1; unknown pathological
+FT                   significance)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077118"
+FT   VARIANT         435
+FT                   /note="W -> R (in EDSPD1; unknown pathological
+FT                   significance; dbSNP:rs1060499554)"
+FT                   /evidence="ECO:0000269|PubMed:27745832"
+FT                   /id="VAR_077119"
+FT   TURN            145..147
+FT                   /evidence="ECO:0007829|PDB:1APQ"
+FT   TURN            150..152
+FT                   /evidence="ECO:0007829|PDB:1APQ"
+FT   STRAND          156..158
+FT                   /evidence="ECO:0007829|PDB:1APQ"
+FT   STRAND          162..168
+FT                   /evidence="ECO:0007829|PDB:1APQ"
+FT   STRAND          171..175
+FT                   /evidence="ECO:0007829|PDB:1APQ"
+FT   STRAND          196..198
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          200..206
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   TURN            208..211
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          219..225
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          230..236
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          246..250
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          254..259
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          262..267
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          269..271
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          281..288
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          299..306
+FT                   /evidence="ECO:0007829|PDB:6F1D"
+FT   STRAND          319..322
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          326..328
+FT                   /evidence="ECO:0007829|PDB:1GPZ"
+FT   STRAND          333..338
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          342..346
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          349..352
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          355..358
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          364..366
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          370..373
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          385..392
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          401..406
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   TURN            408..410
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          411..413
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          426..429
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          433..437
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   TURN            438..440
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          447..449
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          478..492
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   TURN            493..495
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          496..499
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   HELIX           501..504
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          518..522
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   HELIX           526..532
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          537..542
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          548..552
+FT                   /evidence="ECO:0007829|PDB:1GPZ"
+FT   STRAND          559..565
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          571..573
+FT                   /evidence="ECO:0007829|PDB:1MD7"
+FT   HELIX           582..585
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          590..595
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          600..602
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          608..614
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   HELIX           617..626
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          637..641
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   HELIX           643..650
+FT                   /evidence="ECO:0007829|PDB:1GPZ"
+FT   TURN            651..655
+FT                   /evidence="ECO:0007829|PDB:1MD8"
+FT   STRAND          657..661
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   TURN            663..665
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          668..676
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          678..683
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   STRAND          685..689
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   HELIX           690..693
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+FT   HELIX           694..700
+FT                   /evidence="ECO:0007829|PDB:2QY0"
+SQ   SEQUENCE   705 AA;  80119 MW;  B45D120201061462 CRC64;
+     MWLLYLLVPA LFCRAGGSIP IPQKLFGEVT SPLFPKPYPN NFETTTVITV PTGYRVKLVF
+     QQFDLEPSEG CFYDYVKISA DKKSLGRFCG QLGSPLGNPP GKKEFMSQGN KMLLTFHTDF
+     SNEENGTIMF YKGFLAYYQA VDLDECASRS KSGEEDPQPQ CQHLCHNYVG GYFCSCRPGY
+     ELQEDTHSCQ AECSSELYTE ASGYISSLEY PRSYPPDLRC NYSIRVERGL TLHLKFLEPF
+     DIDDHQQVHC PYDQLQIYAN GKNIGEFCGK QRPPDLDTSS NAVDLLFFTD ESGDSRGWKL
+     RYTTEIIKCP QPKTLDEFTI IQNLQPQYQF RDYFIATCKQ GYQLIEGNQV LHSFTAVCQD
+     DGTWHRAMPR CKIKDCGQPR NLPNGDFRYT TTMGVNTYKA RIQYYCHEPY YKMQTRAGSR
+     ESEQGVYTCT AQGIWKNEQK GEKIPRCLPV CGKPVNPVEQ RQRIIGGQKA KMGNFPWQVF
+     TNIHGRGGGA LLGDRWILTA AHTLYPKEHE AQSNASLDVF LGHTNVEELM KLGNHPIRRV
+     SVHPDYRQDE SYNFEGDIAL LELENSVTLG PNLLPICLPD NDTFYDLGLM GYVSGFGVME
+     EKIAHDLRFV RLPVANPQAC ENWLRGKNRM DVFSQNMFCA GHPSLKQDAC QGDSGGVFAV
+     RDPNTDRWVA TGIVSWGIGC SRGYGFYTKV LNYVDWIKKE MEEED
+//
